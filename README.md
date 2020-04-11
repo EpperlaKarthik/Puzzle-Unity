@@ -1,2 +1,2 @@
 # Puzzle-Unity
-Basic Puzzle Game madein 3d unity
+Basic Puzzle Game made in 3d unity
